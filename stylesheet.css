@@ -1,0 +1,30 @@
+h4.standout{
+    color:rgb(157, 13, 13);
+}
+h2.standout{
+    font: size 30px;
+    color:rgb(30, 31, 99);
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table.standout{
+    background:linear-gradient(rgba(118, 197, 204, 0.654),rgba(254, 227, 105, 0.636))
+}
+table{
+    background:linear-gradient(rgba(255, 225, 91, 0.78),rgba(254, 115, 105, 0.636))
+}
+img.standout{
+    border-radius: 40px;
+    opacity:0.8;
+}
+p.standout{
+    font-weight:bold;
+    font-size:30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+p.standout:hover{
+    background: rgba(255, 200, 98, 0.786);
+}
+body{
+    background-color:linear-gradient(rgb(25, 75, 92) white rgb(93, 35, 35));
+}
